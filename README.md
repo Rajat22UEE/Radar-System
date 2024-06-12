@@ -53,4 +53,4 @@ Processing IDE:
 2. Specify the PORT name and run the program.
 3. Observe the radar pattern change when an object is brought near the sensor.
 
-(Note: A video demonstration is available, but photos of the process were not taken.)
+ A video demonstration is available : 
