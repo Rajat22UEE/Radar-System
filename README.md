@@ -54,3 +54,4 @@ Processing IDE:
 3. Observe the radar pattern change when an object is brought near the sensor.
 
  A video demonstration is available : https://github.com/Rajat22UEE/Radar-System/issues/2#issue-2349722279
+ Circuit diagram : https://github.com/Rajat22UEE/Radar-System/issues/3#issue-2349730783
