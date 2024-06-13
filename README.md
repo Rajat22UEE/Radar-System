@@ -53,5 +53,4 @@ Processing IDE:
 2. Specify the PORT name and run the program.
 3. Observe the radar pattern change when an object is brought near the sensor.
 
- A video demonstration is available : https://github.com/Rajat22UEE/Radar-System/issues/5#issue-2351475695
  Circuit diagram : https://github.com/Rajat22UEE/Radar-System/issues/3#issue-2349730783
